@@ -1,5 +1,5 @@
 # funky-glasses
-WIP (starting on 15th June) lightweight app for quick switching between modes and if possible show all of the ones not appearing in the original app.
+WIP lightweight app for quick switching between modes and if possible show all of the ones not appearing in the original app.
 
 ## What I'm planning to do
 For this I'll start analyzing with Wireshark or other means the connection between my Android phone and the led glasses and recreate the bluetooth commands between both devices.
